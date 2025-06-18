@@ -1,7 +1,7 @@
-### Olá, eu sou o Mardo Nunes 👋
+### Aoba, bão?
 <div>
-<img heigth = "180em" src="https://github-readme-stats.vercel.app/api?username=MardoNunes&show_icons=true&theme=highcontrast"/>
-<img heigth = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MardoNunes&layout=compact&theme=highcontrast"/>
+<img heigth = "180em" src="https://github-readme-stats.vercel.app/api?username=Madara763&show_icons=true&theme=highcontrast"/>
+<img heigth = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madara763&layout=compact&theme=highcontrast"/>
 </div>
 
 <div style="display: inline_block"><br>

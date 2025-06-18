@@ -6,7 +6,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Madara-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Madara-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg ">
+  <img align="center" alt="Madara-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
            
 </div>

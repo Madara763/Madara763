@@ -1,8 +1,5 @@
 ### Aoba, bão?
-<div>
-<img heigth = "180em" src="https://github-readme-stats.vercel.app/api?username=Madara763&show_icons=true&theme=highcontrast"/>
-<img heigth = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madara763&layout=compact&theme=highcontrast"/>
-</div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Madara-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
